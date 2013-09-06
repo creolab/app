@@ -114,6 +114,11 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
+		// 3rd party
+		'Juy\Profiler\Providers\ProfilerServiceProvider',
+
+		// Krustr
+		'Krustr\KrustrServiceProvider',
 	),
 
 	/*
@@ -178,7 +183,9 @@ return array(
 		'URL'             => 'Illuminate\Support\Facades\URL',
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
+		'Profiler'        => 'Juy\Profiler\Facades\Profiler',
 
+		// Krustr
 	),
 
 );
