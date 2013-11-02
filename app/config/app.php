@@ -115,10 +115,12 @@ return array(
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
 		// 3rd party
-		'Juy\Profiler\Providers\ProfilerServiceProvider',
+		'Clockwork\Support\Laravel\ClockworkServiceProvider',
 
 		// Krustr
+		'Creolab\Assets\AssetsServiceProvider',
 		'Krustr\KrustrServiceProvider',
+		'Creolab\Alert\AlertServiceProvider',
 	),
 
 	/*
@@ -185,7 +187,8 @@ return array(
 		'View'            => 'Illuminate\Support\Facades\View',
 		'Profiler'        => 'Juy\Profiler\Facades\Profiler',
 
-		// Krustr
+		// 3rd party
+		// 'Debugbar'        => 'Barryvdh\Debugbar\Facade',
 	),
 
 );

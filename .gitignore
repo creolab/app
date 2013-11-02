@@ -2,6 +2,7 @@
 /vendor
 /app/config/local
 /app/config/production
+/app/config/packages/itsgoingd
 /workbench
 composer.phar
 composer.lock

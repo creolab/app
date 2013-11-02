@@ -29,6 +29,7 @@ $app->redirectIfTrailingSlash();
 $env = $app->detectEnvironment(array(
 
 	'local' => array('*.lan'. '*.local', 'localhost', 'krustr.dev'),
+	'development' => array('krustr.net', 'krustr', 'creo'),
 
 ));
 
