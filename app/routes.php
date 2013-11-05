@@ -19,4 +19,3 @@
 Route::get('hehehe', function() {
 	return "HEHEHE!";
 });
-
