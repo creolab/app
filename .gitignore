@@ -5,5 +5,4 @@
 /app/config/packages/itsgoingd
 /workbench
 composer.phar
-composer.lock
 .DS_Store
