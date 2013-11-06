@@ -156,12 +156,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creolab/cart.git",
-                "reference": "97d1f4982015c7bbdb47bb430eb5ef3946053e1c"
+                "reference": "0b1dcd137696d15e2b1782d8e805be3855ce6770"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creolab/cart/zipball/97d1f4982015c7bbdb47bb430eb5ef3946053e1c",
-                "reference": "97d1f4982015c7bbdb47bb430eb5ef3946053e1c",
+                "url": "https://api.github.com/repos/creolab/cart/zipball/0b1dcd137696d15e2b1782d8e805be3855ce6770",
+                "reference": "0b1dcd137696d15e2b1782d8e805be3855ce6770",
                 "shasum": ""
             },
             "require": {
@@ -196,7 +196,7 @@
                 "shop",
                 "webshop"
             ],
-            "time": "2013-11-02 09:42:54"
+            "time": "2013-11-05 08:31:55"
         },
         {
             "name": "creolab/image",
@@ -246,12 +246,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creolab/krustr.git",
-                "reference": "8999f703f9296eabb7770e21a611f179da8be2b6"
+                "reference": "d2e51d25890f527d9ad2a1f76bc39ac4004f47c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creolab/krustr/zipball/8999f703f9296eabb7770e21a611f179da8be2b6",
-                "reference": "8999f703f9296eabb7770e21a611f179da8be2b6",
+                "url": "https://api.github.com/repos/creolab/krustr/zipball/d2e51d25890f527d9ad2a1f76bc39ac4004f47c7",
+                "reference": "d2e51d25890f527d9ad2a1f76bc39ac4004f47c7",
                 "shasum": ""
             },
             "require": {
@@ -289,7 +289,7 @@
                 "cms",
                 "laravel"
             ],
-            "time": "2013-11-04 09:03:40"
+            "time": "2013-11-05 22:26:42"
         },
         {
             "name": "creolab/shop",
@@ -297,12 +297,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/creolab/shop.git",
-                "reference": "894ea4e7e75a350ddeecf8363aa9a71f9ccee682"
+                "reference": "8a475c0abbc02ba3a34a483bf0b773b11ccaf595"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creolab/shop/zipball/894ea4e7e75a350ddeecf8363aa9a71f9ccee682",
-                "reference": "894ea4e7e75a350ddeecf8363aa9a71f9ccee682",
+                "url": "https://api.github.com/repos/creolab/shop/zipball/8a475c0abbc02ba3a34a483bf0b773b11ccaf595",
+                "reference": "8a475c0abbc02ba3a34a483bf0b773b11ccaf595",
                 "shasum": ""
             },
             "require": {
@@ -334,7 +334,7 @@
                 "shop",
                 "webshop"
             ],
-            "time": "2013-11-02 09:47:43"
+            "time": "2013-11-05 08:36:43"
         },
         {
             "name": "dflydev/markdown",
@@ -1140,12 +1140,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "241a2fd0c74d3752732b960af83bc9c902035ebd"
+                "reference": "5076824d4c0d4299522010ddb0bf03e7c96278ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/241a2fd0c74d3752732b960af83bc9c902035ebd",
-                "reference": "241a2fd0c74d3752732b960af83bc9c902035ebd",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/5076824d4c0d4299522010ddb0bf03e7c96278ec",
+                "reference": "5076824d4c0d4299522010ddb0bf03e7c96278ec",
                 "shasum": ""
             },
             "require": {
@@ -1245,7 +1245,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2013-11-02 18:38:24"
+            "time": "2013-11-05 01:52:53"
         },
         {
             "name": "laravelbook/ardent",
@@ -1645,16 +1645,16 @@
         },
         {
             "name": "patchwork/utf8",
-            "version": "v1.1.13",
+            "version": "v1.1.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nicolas-grekas/Patchwork-UTF8.git",
-                "reference": "92376c92e7edc281a2ca4e3384f3da9237415db6"
+                "reference": "af1d74b154bc62fab79b428877a9b5ab15f9418a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nicolas-grekas/Patchwork-UTF8/zipball/92376c92e7edc281a2ca4e3384f3da9237415db6",
-                "reference": "92376c92e7edc281a2ca4e3384f3da9237415db6",
+                "url": "https://api.github.com/repos/nicolas-grekas/Patchwork-UTF8/zipball/af1d74b154bc62fab79b428877a9b5ab15f9418a",
+                "reference": "af1d74b154bc62fab79b428877a9b5ab15f9418a",
                 "shasum": ""
             },
             "require": {
@@ -1692,7 +1692,7 @@
                 "utf-8",
                 "utf8"
             ],
-            "time": "2013-10-12 09:48:20"
+            "time": "2013-11-04 16:58:59"
         },
         {
             "name": "predis/predis",
