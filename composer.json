@@ -16,6 +16,7 @@
 			"app/models",
 			"app/database/migrations",
 			"app/database/seeds",
+			"public/themes",
 			"app/tests/TestCase.php"
 		]
 	},
