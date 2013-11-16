@@ -119,8 +119,9 @@ return array(
 
 		// Krustr
 		'Creolab\Assets\AssetsServiceProvider',
-		'Krustr\KrustrServiceProvider',
 		'Creolab\Alert\AlertServiceProvider',
+		'Creolab\Image\ImageServiceProvider',
+		'Krustr\KrustrServiceProvider',
 	),
 
 	/*
